@@ -1,0 +1,18 @@
+{
+  "name": "preview-anything",
+  "version": "1.0.0",
+  "description": "A NPM package that helps you preview any file type. It Detects framework, Installs dependencies, Builds (if needed), Runs dev server, Proxies port, Opens browser and much more. To find more about it try this package in your project and see the magic.",
+  "keywords": ["demo", "typescript"],
+  "homepage": "https://github.com/mattpocock/tt-package-demo",
+  "bugs": {
+    "url": "https://github.com/mattpocock/tt-package-demo/issues"
+  },
+  "author": "Matt Pocock <team@totaltypescript.com> (https://totaltypescript.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattpocock/tt-package-demo.git"
+  },
+  "files": ["dist"],
+  "type": "module",
+  "main": "dist/index.js"
+}
